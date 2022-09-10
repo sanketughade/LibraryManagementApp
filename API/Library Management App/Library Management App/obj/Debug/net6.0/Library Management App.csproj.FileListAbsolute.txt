@@ -1,0 +1,64 @@
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\appsettings.Development.json
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\appsettings.json
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.exe
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.deps.json
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.runtimeconfig.json
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.pdb
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.AssemblyReference.cache
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.AssemblyInfoInputs.cache
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.AssemblyInfo.cs
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.CoreCompileInputs.cache
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.MvcApplicationPartsAssemblyInfo.cs
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.MvcApplicationPartsAssemblyInfo.cache
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\staticwebassets.build.json
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\staticwebassets.development.json
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\scopedcss\bundle\Library Management App.styles.css
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.CopyComplete
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.dll
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\refint\Library Management App.dll
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.pdb
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.genruntimeconfig.cache
+E:\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\ref\Library Management App.dll
+E:\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Npgsql.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\appsettings.Development.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\appsettings.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.exe
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.deps.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.runtimeconfig.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Library Management App.pdb
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Npgsql.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.AssemblyReference.cache
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.AssemblyInfoInputs.cache
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.AssemblyInfo.cs
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.CoreCompileInputs.cache
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.MvcApplicationPartsAssemblyInfo.cs
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.MvcApplicationPartsAssemblyInfo.cache
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\staticwebassets.build.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\staticwebassets.development.json
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\scopedcss\bundle\Library Management App.styles.css
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.csproj.CopyComplete
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\refint\Library Management App.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.pdb
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.genruntimeconfig.cache
+E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\ref\Library Management App.dll
