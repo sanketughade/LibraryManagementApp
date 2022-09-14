@@ -62,3 +62,13 @@ E:\Practical\Library Management App\API\Library Management App\Library Managemen
 E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.pdb
 E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\Library Management App.genruntimeconfig.cache
 E:\Practical\Library Management App\API\Library Management App\Library Management App\obj\Debug\net6.0\ref\Library Management App.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\System.Web.Http.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Practical\Library Management App\API\Library Management App\Library Management App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

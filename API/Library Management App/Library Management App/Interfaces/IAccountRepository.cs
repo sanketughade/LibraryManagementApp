@@ -1,10 +1,12 @@
-﻿using Library_Management_App.Models;
+﻿using Library_Management_App.DTOs;
+using Library_Management_App.Models;
 
 namespace Library_Management_App.Interfaces
 {
     public interface IAccountRepository
     {
-        public string Register(AppUser user);
+        public void Register(AppUser user);
         bool UserExists(string username);
+        AppUser GetUser(LoginDto loginDto);
     }
 }
